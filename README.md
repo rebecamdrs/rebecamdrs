@@ -1,6 +1,6 @@
 # Rebeca Medeiros 
 
-Me chamo Rebeca Medeiros, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso Técnico em Informática. Atualmente, estou cursando **Ciência da Computação na UFCG**. Sou apaixonada por design, animais e organização.
+Me chamo Rebeca Medeiros, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso Técnico em Informática. Atualmente, estou cursando **Ciência da Computação na UFCG**. 
 
 ### Entre em contato
 
