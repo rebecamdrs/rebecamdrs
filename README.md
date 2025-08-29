@@ -4,7 +4,7 @@ Me chamo Rebeca Medeiros, tenho 18 anos e sou natural da Paraíba. Concluí o en
 
 Através do Técnico em Informática, possuo experiência prática na utilização de linguagens como JavaScript, Python e Java, além do desenvolvimento de websites e aplicativos mobile — os quais foram implementados adotando as boas práticas de programação. Com uma forte habilidade para criar interfaces responsivas e centradas no usuário, sempre tive os esforços voltados para a experiência de navegação, usabilidade e acessibilidade dos sistemas criados.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecamdrs&layout=compact)
 
 ### Entre em contato
 
