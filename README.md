@@ -1,8 +1,6 @@
 # Rebeca Medeiros 
 
-Me chamo Rebeca Medeiros, tenho 18 anos e sou natural da Paraíba. Concluí o ensino médio no IFPB, com o curso Técnico em Informática. Atualmente, estou cursando **Ciência da Computação na UFCG**. 
-
-Através do Técnico em Informática, possuo experiência prática na utilização de linguagens como JavaScript, Python e Java, além do desenvolvimento de websites e aplicativos mobile — os quais foram implementados adotando as boas práticas de programação. Com uma forte habilidade para criar interfaces responsivas e centradas no usuário, sempre tive os esforços voltados para a experiência de navegação, usabilidade e acessibilidade dos sistemas criados.
+Por meio do Técnico em Informática, possuo experiência prática na utilização de linguagens como JavaScript, Python e Java, além do desenvolvimento de websites e aplicativos mobile — os quais foram implementados adotando as boas práticas de programação. Com uma forte habilidade para criar interfaces responsivas e centradas no usuário, sempre tive os esforços voltados para a experiência de navegação, usabilidade e acessibilidade dos sistemas criados.
 
 ### Entre em contato
 
