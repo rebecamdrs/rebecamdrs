@@ -1,6 +1,6 @@
 # Rebeca Medeiros 
 
-Por meio do Técnico em Informática, possuo experiência prática na utilização de linguagens como JavaScript, Python e Java, além do desenvolvimento de websites e aplicativos mobile — os quais foram implementados adotando as boas práticas de programação. Com uma forte habilidade para criar interfaces responsivas e centradas no usuário, sempre tive os esforços voltados para a experiência de navegação, usabilidade e acessibilidade dos sistemas criados.
+Olá! Me chamo Rebeca e sou graduanda em Ciência da Computação. Tenho formação técnica em Informática e experiência prática com JavaScript, Python e Java, além do desenvolvimento de websites e aplicações mobile seguindo boas práticas de programação. Possuo interesse em criar interfaces responsivas e centradas no usuário, com foco em usabilidade, acessibilidade e boa experiência de navegação.
 
 ### Entre em contato
 
