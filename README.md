@@ -1,6 +1,8 @@
 # Rebeca Medeiros 
 
-Olá! Me chamo Rebeca e sou graduanda em Ciência da Computação. Tenho formação técnica em Informática e experiência prática com JavaScript, Python e Java, além do desenvolvimento de websites e aplicações mobile seguindo boas práticas de programação. Possuo interesse em criar interfaces responsivas e centradas no usuário, com foco em usabilidade, acessibilidade e boa experiência de navegação.
+Olá, me chamo Rebeca Medeiros e sou estudante de Ciência da Computação, com formação técnica em Informática. Possuo experiência prática no desenvolvimento de software utilizando JavaScript, Python e Java, com atuação na criação de websites e aplicações mobile, sempre seguindo boas práticas de programação. 
+
+Tenho forte interesse em desenvolvimento de interfaces modernas, com foco em responsividade, usabilidade e acessibilidade, buscando sempre proporcionar uma experiência de usuário eficiente e intuitiva. Estou constantemente em aprimoramento, buscando novos desafios que me permitam evoluir tecnicamente e contribuir de forma significativa em projetos.
 
 ### Entre em contato
 
