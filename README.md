@@ -4,7 +4,11 @@ Olá, me chamo Rebeca Medeiros e sou estudante de Ciência da Computação, com 
 
 Tenho forte interesse em desenvolvimento de interfaces modernas, com foco em responsividade, usabilidade e acessibilidade, buscando sempre proporcionar uma experiência de usuário eficiente e intuitiva. Estou constantemente em aprimoramento, buscando novos desafios que me permitam evoluir tecnicamente e contribuir de forma significativa em projetos.
 
-### Entre em contato
+## Linguagens e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql,androidstudio,vscode,figma)](https://skillicons.dev)
+
+## Social
 
 <p align="left">
     <a href="https://www.instagram.com/rebecamdrs/">
@@ -18,7 +22,3 @@ Tenho forte interesse em desenvolvimento de interfaces modernas, com foco em res
     </a>
 </p>
 
-
-## Linguagens e Ferramentas
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,java,mysql,androidstudio,vscode,figma)](https://skillicons.dev)
